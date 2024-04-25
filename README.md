@@ -12,16 +12,16 @@ Welcome to my GitHub profile! I'm passionate about web development and building 
 
 Here are some of the technologies and tools I work with:
 
-- Frontend: HTML, CSS, JavaScript, React.js, Vue.js
-- Backend: Node.js, Express.js, Django, Flask
-- Databases: MongoDB, MySQL, PostgreSQL
-- Other: Git, GitHub, VS Code, Heroku, Netlify
+- Frontend: HTML, CSS, JavaScript, React.js,
+- Backend: Node.js, Express.js
+- Databases: MongoDB, MySQL
+- Other: Git, GitHub, VS Code
 
 ## 
    
 ## Connect with Me
 
 - [LinkedIn] https://rb.gy/s386pf
-- [Portfolio]
+  
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration opportunities!
